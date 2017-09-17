@@ -1,0 +1,8 @@
+.settings
+classes/
+target/
+# Eclipse artifacts
+.classpath
+.project
+!.pom
+!.gitignore

@@ -1,0 +1,2 @@
+集成了Spring+SpringMVC+Mybaties
+Mybaties文件放在DAO接口中,比较好的用法
